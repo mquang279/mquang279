@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Quang</h1>
-<h3 align="center">A passionate Backend Developer from VietNam</h3>
+<h3 align="center">A passionate Backend Developer/ Cloud Enthusiast from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mquang279&label=Profile%20views&color=0e75b6&style=flat" alt="mquang279" /> </p>
 
-- 🔭 I’m currently working on [Movie Reservation System](https://github.com/mquang279/movie-reservation-system)
-
-- 🌱 I’m currently learning **Kubernetes, Terraform**
+- 🌱 I’m currently learning **Kubernetes, Terraform, Ansible, OpenStack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mquang279](https://github.com/mquang279)
 
